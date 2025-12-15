@@ -4,13 +4,9 @@ I am a **Master’s student in Computer Science** at the **University of Manitob
 
 I enjoy building intelligent robotic systems that are not only technically robust, but also **human-centered, interpretable, and usable** in real-world environments.
 
-## 🔬 Research Interests
-* **Human–Robot Interaction (HRI)**
-* Path Planning & Motion Planning
-
 ## 🛠️ Technical Skills
 **Programming:** Python, C, C++
-**Robotics:** ROS, Arduino, Raspberry Pi, OpenCV
+**Robotics:** ROS, Computer Vision, Arduino, Raspberry Pi
 **Machine Learning:** TensorFlow, Keras
 **Design & Simulation:** MATLAB, Proteus, PCB Design
 **Tools:** Git, GitHub, Cisco Packet Tracer
